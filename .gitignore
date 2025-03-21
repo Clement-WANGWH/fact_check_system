@@ -1,0 +1,9 @@
+llm/
+test.py
+data/cash/
+.idea/
+.vscode/
+config/__pycache__/
+utils/__pycache__/
+models/__pycache__/
+__pycache__/
